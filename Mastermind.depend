@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1297786691 source:c:\documents and settings\christoffer lindahl\mina dokument\högskolan\spa102\mastermind\mastermind.c
+	"mastermind.h"
+
+1297786259 c:\documents and settings\christoffer lindahl\mina dokument\högskolan\spa102\mastermind\mastermind.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1297784314 source:c:\documents and settings\christoffer lindahl\mina dokument\högskolan\spa102\mastermind\main.c
+	"mastermind.h"
+	"highscore.h"
+
+1297783608 source:c:\documents and settings\christoffer lindahl\mina dokument\högskolan\spa102\mastermind\highscore.c
+	"highscore.h"
+
+1298926815 c:\documents and settings\christoffer lindahl\mina dokument\högskolan\spa102\mastermind\highscore.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1299448334 source:h:\spa102\mastermind\highscore.c
+	"highscore.h"
+
+1299447546 h:\spa102\mastermind\highscore.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1299488557 source:h:\spa102\mastermind\main.c
+	"mastermind.h"
+	"highscore.h"
+
+1299488340 h:\spa102\mastermind\mastermind.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1299488434 source:h:\spa102\mastermind\mastermind.c
+	"mastermind.h"
+
+1298971702 source:h:\spa102\mastermind\win.c
+	<stdlib.h>
+
+1298971702 source:c:\users\markus\desktop\mastermind\win.c
+	<stdlib.h>
+
+1299247351 source:c:\users\markus\desktop\mastermind\main.c
+	"mastermind.h"
+	"highscore.h"
+
+1298972068 c:\users\markus\desktop\mastermind\mastermind.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1299249592 c:\users\markus\desktop\mastermind\highscore.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1298972148 source:c:\users\markus\desktop\mastermind\mastermind.c
+	"mastermind.h"
+
+1299250213 source:c:\users\markus\desktop\mastermind\highscore.c
+	"highscore.h"
+
+1298972148 source:c:\documents and settings\christoffer lindahl\mina dokument\mina mottagna filer\mastermind\mastermind.c
+	"mastermind.h"
+
+1299447232 c:\documents and settings\christoffer lindahl\mina dokument\mina mottagna filer\mastermind\mastermind.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1298971702 source:c:\documents and settings\christoffer lindahl\mina dokument\mina mottagna filer\mastermind\win.c
+	<stdlib.h>
+
+1299447702 source:c:\documents and settings\christoffer lindahl\mina dokument\mina mottagna filer\mastermind\main.c
+	"mastermind.h"
+	"highscore.h"
+
+1299447546 c:\documents and settings\christoffer lindahl\mina dokument\mina mottagna filer\mastermind\highscore.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1299447844 source:c:\documents and settings\christoffer lindahl\mina dokument\mina mottagna filer\mastermind\highscore.c
+	"highscore.h"
+
+1298971702 source:h:\spa101\mastermind\win.c
+	<stdlib.h>
+
+1299583475 source:h:\spa101\mastermind\highscore.c
+	"highscore.h"
+
+1299447546 h:\spa101\mastermind\highscore.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1299488816 source:h:\spa101\mastermind\mastermind.c
+	"mastermind.h"
+
+1299488820 h:\spa101\mastermind\mastermind.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1299583671 source:h:\spa101\mastermind\main.c
+	"mastermind.h"
+	"highscore.h"
+
+1299587272 source:f:\skolan\År 1\spa101\master\v2\mastermind\main.c
+	"mastermind.h"
+	"highscore.h"
+
+1299492420 f:\skolan\År 1\spa101\master\v2\mastermind\mastermind.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1299451146 f:\skolan\År 1\spa101\master\v2\mastermind\highscore.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1299492416 source:f:\skolan\År 1\spa101\master\v2\mastermind\mastermind.c
+	"mastermind.h"
+
+1298975302 source:f:\skolan\År 1\spa101\master\v2\mastermind\win.c
+	<stdlib.h>
+
